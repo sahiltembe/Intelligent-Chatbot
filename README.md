@@ -1,1 +1,13 @@
-innovative professional with expertise in developing Intelligent Chatbots using Python, Machine Learning (ML), and Natural Language Processing (NLP). Proven ability to create sophisticated conversational agents that leverage  NLP techniques, ensuring accurate intent recognition and context-aware responses.
+---
+title: CHATBOT
+emoji: 🦀
+colorFrom: yellow
+colorTo: purple
+sdk: gradio
+sdk_version: 4.13.0
+app_file: app.py
+pinned: false
+license: apache-2.0
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
